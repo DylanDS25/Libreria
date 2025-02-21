@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class ServicioBiblioteca {
-    Collection<Recurso> recurso = new ArrayList<>();
+    //Recurso recurso = new Recurso();
+    Collection<Recurso> listado = new ArrayList<>();
 
     public void Biblioteca () {
 
